@@ -1,0 +1,37 @@
+{
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "GauthamDev",
+    "longName": "Yik Yak",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/yak_icon.png",
+                "menuIcon": true,
+                "name": "YAK_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/bw_logo.png",
+                "name": "YAK_LOGO",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Yik Yak",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "89bcd079-41b7-4d8c-bc38-af385d86a55c",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

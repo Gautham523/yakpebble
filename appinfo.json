@@ -6,7 +6,7 @@
         ""
     ],
     "companyName": "GauthamDev",
-    "longName": "Yik Yak",
+    "longName": "YakPebble",
     "projectType": "native",
     "resources": {
         "media": [
@@ -24,7 +24,7 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "Yik Yak",
+    "shortName": "YakPebble",
     "targetPlatforms": [
         "aplite",
         "basalt"
